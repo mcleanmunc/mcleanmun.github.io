@@ -1712,6 +1712,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .credits {
   text-align: center;
-  font-size: 13px;
   color: #ddd;
+}
+
+#footer .credits span {
+  color: #f82249;
 }
